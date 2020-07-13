@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="72306" started-at="2020-07-13T23:39:56 IST" finished-at="2020-07-13T23:41:08 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="72306" started-at="2020-07-13T23:39:56 IST" finished-at="2020-07-13T23:41:08 IST">
+      <class name="com.developerconnectormern.Tests.TC_DM_Register_001">
+        <test-method status="PASS" signature="signup()[pri:0, instance:com.developerconnectormern.Tests.TC_DM_Register_001@5a8806ef]" name="signup" duration-ms="71772" started-at="2020-07-13T23:39:56 IST" finished-at="2020-07-13T23:41:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+      </class> <!-- com.developerconnectormern.Tests.TC_DM_Register_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
